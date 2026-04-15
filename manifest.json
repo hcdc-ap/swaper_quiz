@@ -1,0 +1,21 @@
+{
+  "name": "Who Ask?",
+  "short_name": "Who Ask?",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://github.com/hcdc-ap/images-host/blob/main/images/APmar232020.png?raw=true",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://github.com/hcdc-ap/images-host/blob/main/images/APmar232020.png?raw=true",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}
